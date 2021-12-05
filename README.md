@@ -11,7 +11,7 @@ Creates web page display of employee profiles.
 ## Installation Instructions
 All directories and files are found in the Githum Profile-Generator.
 ## Usage Information
-Watch this how-to-use Vimeo-hosted video: https://vimeo.com/653244487
+Watch this how-to-use Vimeo-hosted video: https://vimeo.com/653501508
 ## Contribution Guidelines
 N/A
 ## Test Instructions
